@@ -1,6 +1,8 @@
-# Hello World!, I'm Armin!
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=60&pause=1000&color=658147&center=true&vCenter=true&width=435&lines=Ármin" alt="Ármin" />
+</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=green) 
+# Hello World!
 
 ## 🛠️ Languages and Tools:
 
