@@ -12,7 +12,7 @@
   ![Go](https://img.shields.io/badge/-Go-000?logo=go)
 
 - **Frameworks:**
-  ![React](https://img.shields.io/badge/-React-000?logo=react)
+-  ![React](https://img.shields.io/badge/-React-000?logo=react)
   ![Django](https://img.shields.io/badge/-Django-000?logo=django)
   ![Spring](https://img.shields.io/badge/-Spring-000?logo=spring)
   ![Gin](https://img.shields.io/badge/-Gin-000?logo=go)
