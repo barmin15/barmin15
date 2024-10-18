@@ -4,7 +4,7 @@
 
 # Hello World!
 
-## 🛠️ Languages and Tools:
+## 🛠️ Languages and Frameworks:
 
 - **Programming Languages:**
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript)
