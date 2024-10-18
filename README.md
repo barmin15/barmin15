@@ -1,4 +1,4 @@
-<h1 align="left">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=60&pause=1000&color=658147&center=true&vCenter=true&width=435&lines=Ármin" alt="Ármin" />
 </h1>
 
