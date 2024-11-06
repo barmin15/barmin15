@@ -21,21 +21,6 @@
   ![Spring](https://img.shields.io/badge/-Spring-000?logo=spring)
   ![Gin](https://img.shields.io/badge/-Gin-000?logo=go)
 
-  
----
-
-## 📈 GitHub Stats:
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=barmin15&show_icons=true&theme=radical)
-
----
-
-## 🏆 Top Languages:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barmin15&layout=compact&theme=radical)
-
----
-
 ## 🤝 Let's Connect:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/barmin/)
