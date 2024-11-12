@@ -1,11 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=60&pause=1000&color=658147&center=true&vCenter=true&width=435&lines=Ármin" alt="Ármin" />
-</h1>
-
-# Hello World!
-
-## 🛠️ Languages and Frameworks:
-
 - **Programming Languages:**
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript)
@@ -22,7 +14,6 @@
   ![Gin](https://img.shields.io/badge/-Gin-000?logo=go)
   ![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js)
 
-## 🤝 Let's Connect:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/barmin/)
 
