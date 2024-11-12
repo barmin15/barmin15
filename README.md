@@ -20,6 +20,7 @@
   ![Django](https://img.shields.io/badge/-Django-000?logo=django)
   ![Spring](https://img.shields.io/badge/-Spring-000?logo=spring)
   ![Gin](https://img.shields.io/badge/-Gin-000?logo=go)
+  ![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js)
 
 ## 🤝 Let's Connect:
 
