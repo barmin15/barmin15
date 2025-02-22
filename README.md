@@ -19,3 +19,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/barmin/)
 
+## GitHub Stats
+
+![barmin15's GitHub Stats](https://github-readme-stats.vercel.app/api?username=barmin15&show_icons=true&count_private=true&hide=prs)
+
