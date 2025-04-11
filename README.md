@@ -11,10 +11,11 @@
 - ![Electron](https://img.shields.io/badge/-Electron-000?logo=electron)
 - ![Gin](https://img.shields.io/badge/-Gin-000?logo=go)
 - ![Ktor](https://img.shields.io/badge/-Ktor-000?logo=ktor)
-- ![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js)
+- ![NestJS](https://img.shields.io/badge/-NestJS-000?logo=nestjs)
 - ![React](https://img.shields.io/badge/-React-000?logo=react)
 - ![React Native](https://img.shields.io/badge/-React%20Native-000?logo=react)
 - ![Spring](https://img.shields.io/badge/-Spring-000?logo=spring)
+- ![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express)
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/barmin/)
